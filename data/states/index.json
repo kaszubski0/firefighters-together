@@ -1,0 +1,302 @@
+[
+  {
+    "slug": "alabama",
+    "name": "Alabama",
+    "abbr": "AL",
+    "coverage": "basic"
+  },
+  {
+    "slug": "alaska",
+    "name": "Alaska",
+    "abbr": "AK",
+    "coverage": "basic"
+  },
+  {
+    "slug": "arizona",
+    "name": "Arizona",
+    "abbr": "AZ",
+    "coverage": "basic"
+  },
+  {
+    "slug": "arkansas",
+    "name": "Arkansas",
+    "abbr": "AR",
+    "coverage": "basic"
+  },
+  {
+    "slug": "california",
+    "name": "California",
+    "abbr": "CA",
+    "coverage": "detailed"
+  },
+  {
+    "slug": "colorado",
+    "name": "Colorado",
+    "abbr": "CO",
+    "coverage": "basic"
+  },
+  {
+    "slug": "connecticut",
+    "name": "Connecticut",
+    "abbr": "CT",
+    "coverage": "basic"
+  },
+  {
+    "slug": "delaware",
+    "name": "Delaware",
+    "abbr": "DE",
+    "coverage": "basic"
+  },
+  {
+    "slug": "florida",
+    "name": "Florida",
+    "abbr": "FL",
+    "coverage": "basic"
+  },
+  {
+    "slug": "georgia",
+    "name": "Georgia",
+    "abbr": "GA",
+    "coverage": "basic"
+  },
+  {
+    "slug": "hawaii",
+    "name": "Hawaii",
+    "abbr": "HI",
+    "coverage": "basic"
+  },
+  {
+    "slug": "idaho",
+    "name": "Idaho",
+    "abbr": "ID",
+    "coverage": "basic"
+  },
+  {
+    "slug": "illinois",
+    "name": "Illinois",
+    "abbr": "IL",
+    "coverage": "basic"
+  },
+  {
+    "slug": "indiana",
+    "name": "Indiana",
+    "abbr": "IN",
+    "coverage": "detailed"
+  },
+  {
+    "slug": "iowa",
+    "name": "Iowa",
+    "abbr": "IA",
+    "coverage": "basic"
+  },
+  {
+    "slug": "kansas",
+    "name": "Kansas",
+    "abbr": "KS",
+    "coverage": "basic"
+  },
+  {
+    "slug": "kentucky",
+    "name": "Kentucky",
+    "abbr": "KY",
+    "coverage": "basic"
+  },
+  {
+    "slug": "louisiana",
+    "name": "Louisiana",
+    "abbr": "LA",
+    "coverage": "basic"
+  },
+  {
+    "slug": "maine",
+    "name": "Maine",
+    "abbr": "ME",
+    "coverage": "basic"
+  },
+  {
+    "slug": "maryland",
+    "name": "Maryland",
+    "abbr": "MD",
+    "coverage": "detailed"
+  },
+  {
+    "slug": "massachusetts",
+    "name": "Massachusetts",
+    "abbr": "MA",
+    "coverage": "basic"
+  },
+  {
+    "slug": "michigan",
+    "name": "Michigan",
+    "abbr": "MI",
+    "coverage": "basic"
+  },
+  {
+    "slug": "minnesota",
+    "name": "Minnesota",
+    "abbr": "MN",
+    "coverage": "basic"
+  },
+  {
+    "slug": "mississippi",
+    "name": "Mississippi",
+    "abbr": "MS",
+    "coverage": "basic"
+  },
+  {
+    "slug": "missouri",
+    "name": "Missouri",
+    "abbr": "MO",
+    "coverage": "basic"
+  },
+  {
+    "slug": "montana",
+    "name": "Montana",
+    "abbr": "MT",
+    "coverage": "basic"
+  },
+  {
+    "slug": "nebraska",
+    "name": "Nebraska",
+    "abbr": "NE",
+    "coverage": "basic"
+  },
+  {
+    "slug": "nevada",
+    "name": "Nevada",
+    "abbr": "NV",
+    "coverage": "basic"
+  },
+  {
+    "slug": "new-hampshire",
+    "name": "New Hampshire",
+    "abbr": "NH",
+    "coverage": "basic"
+  },
+  {
+    "slug": "new-jersey",
+    "name": "New Jersey",
+    "abbr": "NJ",
+    "coverage": "basic"
+  },
+  {
+    "slug": "new-mexico",
+    "name": "New Mexico",
+    "abbr": "NM",
+    "coverage": "basic"
+  },
+  {
+    "slug": "new-york",
+    "name": "New York",
+    "abbr": "NY",
+    "coverage": "detailed"
+  },
+  {
+    "slug": "north-carolina",
+    "name": "North Carolina",
+    "abbr": "NC",
+    "coverage": "basic"
+  },
+  {
+    "slug": "north-dakota",
+    "name": "North Dakota",
+    "abbr": "ND",
+    "coverage": "basic"
+  },
+  {
+    "slug": "ohio",
+    "name": "Ohio",
+    "abbr": "OH",
+    "coverage": "basic"
+  },
+  {
+    "slug": "oklahoma",
+    "name": "Oklahoma",
+    "abbr": "OK",
+    "coverage": "basic"
+  },
+  {
+    "slug": "oregon",
+    "name": "Oregon",
+    "abbr": "OR",
+    "coverage": "basic"
+  },
+  {
+    "slug": "pennsylvania",
+    "name": "Pennsylvania",
+    "abbr": "PA",
+    "coverage": "basic"
+  },
+  {
+    "slug": "rhode-island",
+    "name": "Rhode Island",
+    "abbr": "RI",
+    "coverage": "basic"
+  },
+  {
+    "slug": "south-carolina",
+    "name": "South Carolina",
+    "abbr": "SC",
+    "coverage": "basic"
+  },
+  {
+    "slug": "south-dakota",
+    "name": "South Dakota",
+    "abbr": "SD",
+    "coverage": "basic"
+  },
+  {
+    "slug": "tennessee",
+    "name": "Tennessee",
+    "abbr": "TN",
+    "coverage": "basic"
+  },
+  {
+    "slug": "texas",
+    "name": "Texas",
+    "abbr": "TX",
+    "coverage": "detailed"
+  },
+  {
+    "slug": "utah",
+    "name": "Utah",
+    "abbr": "UT",
+    "coverage": "basic"
+  },
+  {
+    "slug": "vermont",
+    "name": "Vermont",
+    "abbr": "VT",
+    "coverage": "basic"
+  },
+  {
+    "slug": "virginia",
+    "name": "Virginia",
+    "abbr": "VA",
+    "coverage": "detailed"
+  },
+  {
+    "slug": "washington",
+    "name": "Washington",
+    "abbr": "WA",
+    "coverage": "basic"
+  },
+  {
+    "slug": "west-virginia",
+    "name": "West Virginia",
+    "abbr": "WV",
+    "coverage": "basic"
+  },
+  {
+    "slug": "wisconsin",
+    "name": "Wisconsin",
+    "abbr": "WI",
+    "coverage": "basic"
+  },
+  {
+    "slug": "wyoming",
+    "name": "Wyoming",
+    "abbr": "WY",
+    "coverage": "basic"
+  }
+]
